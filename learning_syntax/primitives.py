@@ -33,6 +33,9 @@ for num in myList:
 # if you want to create and sort then do this
 sorted([2,1,3,5])
 
+lettersArr = [0] * 26 # 26 zeros
+
+
 
 
 
